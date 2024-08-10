@@ -1,7 +1,11 @@
 🔭 I’m currently working on Front-end Development
+
 🌱 I’m currently learning Mern Stack
+
 👯 I’m looking to Front-end internship
+
 💬 Talk me about software's
+
 ⚡ Student & Teacher
 
 <!---
