@@ -1,12 +1,12 @@
-🔭 I’m currently working on Front-end Development
+🔭 I’m currently working on Front-End Development
 
 🌱 I’m currently learning Mern Stack
 
-👯 I’m looking to Front-end internship
+👯 I’m looking to Front-End Internship
 
 💬 Talk me about software's
 
-⚡ Student & Teacher
+⚡ Student & Guidance
 
 <!---
 MKAIF5/MKAIF5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
