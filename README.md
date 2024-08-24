@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-kaif-36b9b62a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-kaif-36b9b62a8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-kaif-36b9b62a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-kaif-36b9b62a8/" height="30" width="40" /></a>
 <a href="https://instagram.com/m.kaif_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.kaif_5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohammad kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohammad kaif" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mohammed_kaif5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohammed_kaif5/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/MOHAMMAD KAIF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohammad kaif" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/MOHAMMAD_KAIF5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohammed_kaif5/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
