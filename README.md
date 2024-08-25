@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-kaif-36b9b62a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-kaif-36b9b62a8/" height="30" width="40" /></a>
 <a href="https://instagram.com/m.kaif_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.kaif_5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mohammadkaif-lh5ye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mohammadkaif-lh5ye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mohammadkaif-lh5ye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mohammadkaif-lh5ye" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/mohammed_kaif5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohammed_kaif5/" height="30" width="40" /></a>
 </p>
 
